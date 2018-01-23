@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arcade1225", "Arcade1225.csproj", "{C1886FA7-37AE-85C0-9C27-B922EF885984}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arcade1225.Editor", "Arcade1225.Editor.csproj", "{5B54877B-67B4-96B1-C422-57C82114D6C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1886FA7-37AE-85C0-9C27-B922EF885984}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1886FA7-37AE-85C0-9C27-B922EF885984}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1886FA7-37AE-85C0-9C27-B922EF885984}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1886FA7-37AE-85C0-9C27-B922EF885984}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B54877B-67B4-96B1-C422-57C82114D6C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B54877B-67B4-96B1-C422-57C82114D6C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B54877B-67B4-96B1-C422-57C82114D6C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B54877B-67B4-96B1-C422-57C82114D6C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
